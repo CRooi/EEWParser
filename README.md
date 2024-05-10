@@ -1,4 +1,4 @@
-# eewparser
+# EEWParser
 
 Parser for EEW Telegram from JMA.
 
@@ -8,7 +8,7 @@ Parser for EEW Telegram from JMA.
 bun install
 ```
 
-### Run test example
+## Run test example
 
 ```bash
 bun run main-test.ts
