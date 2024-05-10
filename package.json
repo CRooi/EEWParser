@@ -1,0 +1,14 @@
+{
+  "name": "eewparser",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
